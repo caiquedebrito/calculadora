@@ -37,7 +37,7 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 ### 📃LICENÇA
 
-(NOME DO PROJETO) é licenciado pelo MIT, conforme encontrado no arquivo de [LICENÇA](./LICENSE)
+Calculadora é licenciado pelo MIT, conforme encontrado no arquivo de [LICENÇA](./LICENSE)
 
 ### 🧑‍💻AUTOR
 
